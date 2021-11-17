@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "555a4b0b-fd37-ef29-e364-4b6d9753b702"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Causes and Prevention of War",
+  "course_description": "This course examines the causes of war, with a focus on practical measures to prevent and control war. Topics include causes and consequences of misperception by nations; military strategy and policy as cause of war; religion and war; U.S. foreign policy as a cause of war and peace; and the likelihood and possible nature of great wars in the future.\n\nThe historical cases covered include World War I, World War II, the Korean War, the Seven Years' War, the Arab-Israel conflict, other recent Mideast wars, and the Peloponnesian War.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.42",
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
